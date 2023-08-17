@@ -1,5 +1,6 @@
 import './App.css';
-import Notes from './Notes';
+import Quiz from './Quiz';
+// import Notes from './Notes';
 // import Tenzies from './Tenzies';
 // import Meme from './Meme';
 // import ReactSite from './ReactSite';
@@ -10,7 +11,7 @@ import Notes from './Notes';
 function App() {
   return (
     <>
-    <Notes/>
+    <Quiz/>
     </>
   );
 }
